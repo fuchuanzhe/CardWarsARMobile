@@ -16,4 +16,4 @@ Scripts and some assests / models for AR Card Wars app. Main logic lies in `Spaw
 - AR Raycast Manger: used for raycasting, useful in determining where on a detected surface the user is tapping or pointing, allowing characters or objects to be placed accurately in the real world
 
 
-* Special thanks to Chloe Sit for creating the game models.
+\* Special thanks to Chloe Sit for creating the game models *
