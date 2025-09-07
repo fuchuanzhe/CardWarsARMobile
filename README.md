@@ -3,7 +3,7 @@
 <img width="1695" height="974" alt="card_wars_ar" src="card_wars_ar.png" />
 
 
-Scripts and some assests for AR Card Wars app. Main logic lies in `Spawn.cs` and `PlaceField.cs`. Applicable to any card game that has cards which contain a large number of geometric features and less repeating patterns. 
+Scripts and some assests / models for AR Card Wars app. Main logic lies in `Spawn.cs` and `PlaceField.cs`. Applicable to any card game that has cards which contain a large number of geometric features and less repeating patterns. 
 
 ### Unity Dependencies
 - AR Foundation, XR Interaction Toolkit: for building an AR app
@@ -13,4 +13,7 @@ Scripts and some assests for AR Card Wars app. Main logic lies in `Spawn.cs` and
 ### Key Components
 - AR Tracked Image Manager: recognises specific cards within a given library (XR Reference Image Library) 
 - AR Plane Manager: for detecting horizontal (and vertical) planes, especially useful for board games settings
-- AR Raycast Manger: used for raycasting, useful in determining where on a detected surface the user is tapping or pointing, allowing characters or objects to be placed accurately in the real world  
+- AR Raycast Manger: used for raycasting, useful in determining where on a detected surface the user is tapping or pointing, allowing characters or objects to be placed accurately in the real world
+
+
+* Special thanks to Chloe Sit for creating the game models.
