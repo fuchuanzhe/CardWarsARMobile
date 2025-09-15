@@ -1,6 +1,6 @@
 # Adventure Time Card Wars AR Mobile
 
-<img width="1695" height="974" alt="card_wars_ar" src="card_wars_ar.png" />
+<img width="1695" height="974" alt="card_wars_ar_2" src="card_wars_ar.png" />
 
 
 Scripts and some assests / models for AR Card Wars app. Main logic lies in `Spawn.cs` and `PlaceField.cs`. Applicable to any card game that has cards which contain a large number of geometric features and less repeating patterns. 
